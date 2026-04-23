@@ -1,0 +1,1 @@
+http://205.174.165.80/IOTDataset/CIC%20IoT-IDAD%20Dataset%202024/Dataset/Anomaly%20Detection%20-%20Flow%20Based%20features/FlowmeterResult/README.txt
